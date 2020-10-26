@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Video Site Prototype using React and MongoDB
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Created for the purpose of learning react and exploring the possibilities of a reactive user interface. 
+
+Created with assist from Mosh Hamedami tutorial. 
 
 ## Available Scripts
 
